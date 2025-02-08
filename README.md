@@ -81,15 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshBhatt&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshBhatt&theme=radical" width="400"/>
-</p>
-
----
-
 ## 📫 Let's Connect!  
 <p align="center">
   <a href="https://linkedin.com/in/bhatt-utkarsh" target="_blank">
