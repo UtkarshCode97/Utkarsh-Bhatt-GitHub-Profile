@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Utkarsh Bhatt!  
+<h1 align="center">🚀 Hi, I'm Utkarsh Bhatt!</h1>  
 
 <h1 align="center">👋 Backend Developer | DevOps Enthusiast | Cloud Explorer 🚀</h1>  
 
