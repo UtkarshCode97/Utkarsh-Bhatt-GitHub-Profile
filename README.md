@@ -24,5 +24,5 @@ Preparing for international travel while working remotely
 📫 Let's Connect!
 
 🌐 LinkedIn
-✉️ utkarshbhattofficial@gmail.com
+ linkedin.com/in/bhatt-utkarsh
 🚀 Always learning, always building!
