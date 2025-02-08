@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I'm Utkarsh Bhatt! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B800&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+DevOps+Enthusiast+%7C+Cloud+Practitioner;Passionate+about+building+scalable+applications!;Always+learning+and+exploring+new+technologies!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B800&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+DevOps+%7C+Cloud+Engineer;Building+Scalable+and+Efficient+Backends;Exploring+DevOps+and+Cloud+Technologies;Always+Learning+and+Improving!">
 </p>
+
 
 ---
 
@@ -34,14 +35,6 @@
 ✅ **AWS Cloud Practitioner**  
 ✅ **AI Practitioner**  
 ✅ **Meta Backend Developer (In Progress)**  
-
----
-
-## 📊 **GitHub Stats & Activity**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshbhattofficial&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshbhattofficial&theme=tokyonight" width="48%" alt="GitHub Streak Stats"/>
-</p>
 
 ---
 
