@@ -78,16 +78,7 @@
 📜 **PCEP & PCAP** - Python Certifications  
 📜 **AWS Cloud Practitioner**  
 📜 **AI Practitioner**  
-📜 **Meta Backend Developer (In Progress)**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshBhatt&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshBhatt&theme=radical" width="400"/>
-</p>
+📜 **Meta Backend Developer (In Progress)** 
 
 ---
 
