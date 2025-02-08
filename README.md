@@ -23,8 +23,7 @@
 ### 🔹 **Languages & Backend**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🔹 **Web Frameworks**  
@@ -67,7 +66,7 @@
 
 ## 🎯 Current Learning Goals  
 
-✅ **Mastering Java & C# for Backend Development**  
+✅ **Deepening SQL & Database Optimization**  
 ✅ **Improving Cloud & DevOps Skills (AWS, Linux, CI/CD)**  
 ✅ **Building Scalable & Efficient Backend Systems**  
 ✅ **Preparing for International Travel while Working Remotely** 🌍  
@@ -78,7 +77,16 @@
 📜 **PCEP & PCAP** - Python Certifications  
 📜 **AWS Cloud Practitioner**  
 📜 **AI Practitioner**  
-📜 **Meta Backend Developer (In Progress)** 
+📜 **Meta Backend Developer (In Progress)**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshBhatt&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshBhatt&theme=radical" width="400"/>
+</p>
 
 ---
 
